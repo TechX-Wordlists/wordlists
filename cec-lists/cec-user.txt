@@ -1,0 +1,14 @@
+announce-subscribe@tomcat.apache.org
+announce@tomcat.apache.org
+craigmcc@apache.org
+dev-subscribe@tomcat.apache.org
+dev@tomcat.apache.org
+f.bloggs@mycompany.com
+fhanik@apache.org
+j.jones@mycompany.com
+jfarcand@apache.org
+taglibs-user-subscribe@tomcat.apache.org
+taglibs-user@tomcat.apache.org
+users-subscribe@tomcat.apache.org
+users@tomcat.apache.org
+yoavs@apache.org
